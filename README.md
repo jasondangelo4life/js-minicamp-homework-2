@@ -5,11 +5,19 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	- A for loop is an item that gives you a result as long as set conditions are met.
 
+	* && || !
+	- Logic operators allow you to compare 2 different items and gives you a result. && gives a true result if both items are correct, || gives you a true result if item 1 or item 2 is correct, ! gives a true result if an item is not correct. 
+
+	* Array
+	- An array is a list of items that you can assign properties to.
+
+	* git
+	-Git is a program that allows you to share files.
+
+	* GitHub
+	- Github is a place that stores all of the files shared by git.
 
 2. Install git.  https://git-scm.com/downloads
 
